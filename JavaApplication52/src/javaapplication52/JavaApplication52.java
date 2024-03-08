@@ -17,6 +17,12 @@ public class JavaApplication52 {
     public static void main(String[] args) {
         
         System.out.println("holaaaa");
+        
+        
+        System.out.println("holaaaa");
+        System.out.println("holaaaa");
+        System.out.println("holaaaa");
+        
     }
     
 }
